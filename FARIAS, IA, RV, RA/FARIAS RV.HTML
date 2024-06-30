@@ -1,0 +1,32 @@
+<!DOCTYPE>
+ <HTML>
+  <HEAD>
+   <TITLE>RV</TITLE>
+  </HEAD>
+    <BODY BGCOLOR="SKI BLUE">
+     <H1 STYLE="COLOR:RED;FONT-SIZE:30 PX;FONT-FAMILY:ARIAL"ALIGN="CENTER"><U>REALIDAD VIRTUAL</U></H1>
+      <P STYLE="STYLE="COLOR:BLACK;FONT-SIZE:20 PX;FONT-FAMILY:VERDANA"><DEL>La Realidad Virtual, identificada por las siglas RV, es una tecnología de última generación que en realidad se viene utilizando desde hace décadas. De ahí que no tengamos que identificarla como una tecnología futurista, sino que forma parte del presente y, por supuesto, del futuro.
+A continuación os vamos a detallar qué es y en qué consiste la Realidad Virtual, y por supuesto, además de enumerar diferentes ejemplos y cuáles son las ventajas que ofrece, señalaremos las diferencias que existen entre Realidad Virtual y Realidad Aumentada.</DEL></P>
+<BR>
+  <CENTER><IMG SRC="RV.JPEG";WIDTH:"250 PX";HEIGHT:"250 PX">
+<BR>
+<P STYLE="COLOR:BLACK;FONT-SIZE:20 PX;FONT-FAMILY:VERDANA"><DEL>Podríamos definir la RV como una recreación tridimensional virtual inmersiva de un entorno que nos permite tener la sensación de encontramos realmente dentro de él. Para generar dicha recreación se emplea tecnología informática de última generación desarrollada por software e interfaces sofisticados. Para poder disfrutarla, necesitamos colocarnos unas gafas o cascos de Realidad Virtual. El objetivo es ser el protagonista de un mundo ficticio o formar parte de él.</DEL></P>
+<BR>
+  <center><IMG SRC="RV2.0.JPEG";WIDTH:"250 PX";HEIGHT:"250 PX">
+<BR>
+<P STYLE="COLOR:BLACK;FONT-SIZE:20 PX;FONT-FAMILY:VERDANA"><DEL>Lo más apasionante de la Realidad Virtual es que sus inicios tenemos que buscarlos décadas atrás. A mediados del s. XX hubo visionarios que entendieron que este tipo de recreaciones podían suscitar interés entre la gente. Encontrarse envuelto en otro entorno llegando a percibir aromas e incluso movimiento no son ideas contemporáneas.
+Una de las primeras máquinas que logró transmitir todas estas sensaciones fue “Sensorama”, creada a mediados del siglo pasado, la cual contaba con un asiento desde donde podías ver películas en 3D, era capaz de emitir olores e incluso te permitía sentir como el asiento se movía y vibraba.
+En la década de los 60, un equipo del MIT desarrolló un “casco” de Realidad Virtual acoplado a un ordenador. Recordad que en esos tiempos los ordenadores eran enormes y pesados y el casco estaba colgado del techo, por lo que le pusieron el alias de “Espada de Damocles”.</DEL></P>
+<BR>
+   <right><IMG SRC="RV3.0.JPEG";WIDTH:"250 PX";HEIGHT:"250 PX">
+<BR>
+ <P STYLE="COLOR:BLACK;FONT-SIZE:20 PX;FONT-FAMILY:VERDANA"><DEL>Aprenda más de inteligencia artificial <a href="file:///C:/Users/Mirella%20Yagual/OneDrive/Desktop/tareas%20de%20diseño/FARIAS,%20IA,%20RV,%20RA/FARIAS%20IA.HTML">clik aquí.</a></DEL></P>
+<BR>
+<P STYLE="COLOR:BLACK;FONT-SIZE:20 PX;FONT-FAMILY:VERDANA"><DEL>Aprende más sobre realidad aumentada  <a href="file:///C:/Users/Mirella%20Yagual/OneDrive/Desktop/tareas%20de%20diseño/FARIAS,%20IA,%20RV,%20RA/FARIAS%20RA.HTML">click aquí.</a></DEL></P>
+<BR>
+ 
+    VIDEO INASANO<iframe width="560" height="315" src="https://www.youtube.com/embed/8nTz4LPSlOw?si=viHwadxJvXZW_G-T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </BODY>
+
+  </HTML>
+
